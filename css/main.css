@@ -1,0 +1,28 @@
+.site-header{
+    background-color: #423d3d;
+    color: #e2fbfb;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.site-header-content{
+    margin: 10px;
+}
+.linkedIn-link{
+    color: #e2fbfb;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+.profile-photo{
+    border-radius: 50%;
+    height: 300px;
+    width: 250px;
+    box-shadow: #ccdcdc 0px 1px 16px;
+}
+body{
+    margin:0
+}
